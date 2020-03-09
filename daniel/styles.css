@@ -27,3 +27,11 @@ body {
     margin: 0 0 10px;    
     padding: 10px;
 }
+
+.primary-box em {
+    color: #32b0ff;
+}
+
+.secondary-box em {
+    color: #fc3fff;
+}
